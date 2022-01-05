@@ -15,7 +15,6 @@
      }
  }
 ```
-<br>
 
 <h4>Programming languages I like</h4>
 <p>

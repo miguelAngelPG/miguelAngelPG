@@ -2,7 +2,7 @@
 <h4 align="right">– Albert Einstein.</h4>
 <hr/>
 
-<h3 align="center">-A simple developer who loves programming-</h3>
+<h3 align="center">-A simple person who loves programming-</h3>
 
 ```shell
  { 

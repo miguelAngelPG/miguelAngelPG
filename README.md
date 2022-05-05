@@ -43,6 +43,9 @@
 	<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
 					<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 	</a> &nbsp;
+	<a href="https://www.netlify.com" target="_blank" rel="noreferrer"> 
+					<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="unity" width="40" height="40"/> 
+	</a> &nbsp;
 	<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
 					<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
 	</a> &nbsp;
@@ -51,6 +54,9 @@
 	</a> &nbsp;
 	<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
 					<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+	</a> &nbsp;
+	<a href="https://github.com" target="_blank" rel="noreferrer"> 
+					<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="heroku" width="40" height="40"/> 
 	</a> &nbsp;
 </p>
 

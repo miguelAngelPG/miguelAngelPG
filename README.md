@@ -84,6 +84,12 @@ PersonalData = {
 	<a href="https://github.com" target="_blank" rel="noreferrer"> 
 					<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="40" height="40"/> 
 	</a> &nbsp;
+	<a href="https://github.com" target="_blank" rel="noreferrer"> 
+					<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
+	</a> &nbsp;
+	<a href="https://github.com" target="_blank" rel="noreferrer"> 
+					<img src="https://upload.vectorlogo.zone/logos/asana/images/cae029cc-73d9-4b0d-83e2-70893c439061.svg" alt="asana" width="40" height="40"/> 
+	</a> &nbsp;
 </p>
 
 ### 🌱 Always learning but now I focus on...

@@ -58,6 +58,30 @@
 	<a href="https://github.com" target="_blank" rel="noreferrer"> 
 					<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="heroku" width="40" height="40"/> 
 	</a> &nbsp;
+	<a href="https://github.com" target="_blank" rel="noreferrer"> 
+					<img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/> 
+	</a> &nbsp;
+	<a href="https://github.com" target="_blank" rel="noreferrer"> 
+					<img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="axios" width="40" height="40"/> 
+	</a> &nbsp;
+	<a href="https://github.com" target="_blank" rel="noreferrer"> 
+					<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
+	</a> &nbsp;
+	<a href="https://github.com" target="_blank" rel="noreferrer"> 
+					<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
+	</a> &nbsp;
+	<a href="https://github.com" target="_blank" rel="noreferrer"> 
+					<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
+	</a> &nbsp;
+	<a href="https://github.com" target="_blank" rel="noreferrer"> 
+					<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> 
+	</a> &nbsp;
+	<a href="https://github.com" target="_blank" rel="noreferrer"> 
+					<img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socketio" width="40" height="40"/> 
+	</a> &nbsp;
+	<a href="https://github.com" target="_blank" rel="noreferrer"> 
+					<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="40" height="40"/> 
+	</a> &nbsp;
 </p>
 
 ### 🌱 Always learning but now I focus on...

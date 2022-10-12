@@ -5,19 +5,18 @@
 <h3 align="center">-A simple person who loves programming-</h3>
 
 ```shell
- { 
-   “name” : “Miguel Angel”,
-   “lastaname” : “Pacheco Granillo”,
-   “role” : “Programmer Analyst & Web developer”,
-   “data” : 
-     { 
-      Loading...
-     }
- }
+PersonalData = {
+	 	 { 
+		   “name” : “Miguel Angel”,
+		   “lastaname” : “Pacheco Granillo”,
+		   “role” : “Programmer Analyst & Web developer”,
+		   “data” : { Loading... }
+		 }
+	       }
 ```
 
-<h4>Programming languages I like</h4>
-<p>
+<h4 align="center">Programming languages I like...</h4>
+<p align="center">
 	<a href='https://www.php.net/manual/es/intro-whatis.php' >
  		<img src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" height="70" alt="Pyton">
 	</a> &nbsp;
@@ -33,7 +32,7 @@
 </p>
 
 <h4>Tools & Technologies</h4>
-<p align="left">
+<p align="center">
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 					<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 	</a> &nbsp;
@@ -88,9 +87,10 @@
 </p>
 
 ### 🌱 Always learning but now I focus on...
-- TypeScript / WebSockets
+- TypeScript / Node JS / Next JS
 - Mid level React JS
-- Node JS
+- UX/UI Designer
  
-#### 🎧 I love music! 
+#### 🎧 I love music! 🎶
 [![Spotify](https://spotify-now-beta.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mickeypacheco)
+

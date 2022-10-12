@@ -8,7 +8,7 @@
  { 
    “name” : “Miguel Angel”,
    “lastaname” : “Pacheco Granillo”,
-   “role” : “”,
+   “role” : “Programmer Analyst & Web developer”,
    “data” : 
      { 
       Loading...
@@ -18,14 +18,17 @@
 
 <h4>Programming languages I like</h4>
 <p>
- <a href='https://www.php.net/manual/es/intro-whatis.php' >
- 	<img src="https://img.shields.io/badge/php-6C78AF?style=for-the-badge&logo=php&logoColor=white">
+	<a href='https://www.php.net/manual/es/intro-whatis.php' >
+ 		<img src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" height="70" alt="Pyton">
+	</a> &nbsp;
+ 	<a href='https://www.php.net/manual/es/intro-whatis.php' >
+ 		<img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="70" alt="PHP">
 	</a> &nbsp;
 	<a href='https://www.php.net/manual/es/intro-whatis.php' >
-		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+		<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="70" alt="C#">
 	</a> &nbsp;
 	<a href='https://www.python.org' >
-		<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
+		<img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" height="70" alt="Javascript">
 	</a> 
 </p>
 

@@ -1,7 +1,3 @@
-<h3 align="center">“La lógica puede llevarte de un punto A a un punto B. La imaginación puede llevarte a cualquier lugar”</h3>
-<h4 align="right">– Albert Einstein.</h4>
-<hr/>
-
 <h3 align="center">-A simple person who loves programming-</h3>
 
 ```shell

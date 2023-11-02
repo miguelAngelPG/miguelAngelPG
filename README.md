@@ -3,12 +3,12 @@
 ```shell
 PersonalData = {
 	 	 { 
-		   “name” : "Miguel Angel",
-		   “lastaname” : "Pacheco Granillo",
-		   “email” : "miguel.pachecog925@gmail.com",
-		   “role” : "Programmer Analyst & Web developer",
-		   “country” : "MX: Mexico",
-		   “data” : { Loading... }
+		   "name" : "Miguel Angel",
+		   "lastaname" : "Pacheco Granillo",
+		   "email" : "miguel.pachecog925@gmail.com",
+		   "role" : "Programmer Analyst & Web developer",
+		   "country" : "MX: Mexico",
+		   "data" : { Loading... }
 		 }
 	       }
 ```

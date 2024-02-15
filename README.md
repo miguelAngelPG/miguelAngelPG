@@ -95,6 +95,10 @@ PersonalData = {
 - Mid level React JS
 - UX/UI Designer
  
+
 #### 🎧 I love music! 🎶
+
+&nbsp;<div align="center">
 [![Spotify](https://spotify-now-beta.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mickeypacheco)
+</div>
 
